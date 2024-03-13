@@ -40,8 +40,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Internet";
-char pass[] = "28511666";
+char ssid[] = "xxxxxxx";
+char pass[] = "xxxxx";
 
 BlynkTimer timer;
 WidgetRTC rtc;
